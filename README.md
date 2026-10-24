@@ -26,7 +26,7 @@ pengelolaan data anggota, buku, dan peminjaman.
 ### 3. Transaksi & Laporan Peminjaman
 ![Transaksi Peminjaman](screenshots/peminjaman.png)
 
-### 2. Database
+### 4. Database
 ![Database](screenshots/database.png)
 
 
